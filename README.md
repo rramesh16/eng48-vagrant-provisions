@@ -1,3 +1,11 @@
+# Sparta app
+## Usage
+1. clone this repo 
+2. On your git bash make sure you're in the ````/app```` location
+3. Then ````vagrant up````
+4. Now, you should be able to run the app from the url development.local:3000
+
+
 # Vagrant - Provisioning 
 
 ## Start Up

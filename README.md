@@ -1,4 +1,4 @@
-# Vagrant Nginx Server
+# Vagrant - Provisioning 
 
 ## Start Up
 1. On git bash create a directory: ````mkdir #````
